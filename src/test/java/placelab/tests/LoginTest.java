@@ -37,8 +37,6 @@ public class LoginTest {
 
     @AfterSuite
     public void quitDriver() {
-
-        driver.quit();
-
+        driver.close();
     }
 }

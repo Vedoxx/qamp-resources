@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="qamp-resources" target="7" />
+      <module name="qamp-resources" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
